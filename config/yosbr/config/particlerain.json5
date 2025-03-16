@@ -3,6 +3,7 @@
 	"particleDensity": 50,
 	"particleStormDensity": 150,
 	"doRippleParticles": false,
+	"doGroundFogParticles": false,
 	"rain": {
 		"density": 50
 	},

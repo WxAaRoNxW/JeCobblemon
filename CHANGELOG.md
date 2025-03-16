@@ -52,14 +52,24 @@ v0.0.2 Alpha
 	- Config
 		- Wover - enabled "Disable Experimental Warning"
 - Update
-    - Cobblemon Size Variations /
+    - Cobblemon Size Variations
         - 1.0.1 -> 1.6.1
         - Pokemon now uses a linear distribution where the value from 0-255 is normalized into 0.8 - 1.20. 20+-% size variations.
+    - Particle Rain
+		- 3.0.2 -> 3.0.5
 - Changed
-    - Particle Rain /
-        - Enabled ground fog since it has been fixed on the latest update.
     - Stendhal
         - Disabled unicode chat button
+	<details>
+	<summary><b>
+	Backend
+	</b></summary>
+	
+	- Editted Atena, Melody, and WaterMedia to be on both client and server, fixes server pack not downloading these.
+	- Set e4mc to client side, preventing dedicated server to download it.
+	- Set Cobbled Farms world to client side.
+	</details>
+
 - Removed
 	- Even Better Enchants - Replaced with Beautiful Enchanted Books
 	<details>
