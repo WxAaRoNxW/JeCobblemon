@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "733769e8cb047b21266fad077760e3e1583a82a82809af8f7abdf9602d518156"
+hash = "61d8ac1d585aa54756cc32045d2ca13630eecd54373ed44f9ab88421c8bbc6e2"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -705,8 +705,22 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "global_packs/required_data/JecobblemonModIntegrations-0.1.zip"
+hash = "a035b892d590c39549740c74984443df288a771070d4f99efc65ff4b21f72d20"
+
+[[files]]
 file = "global_packs/required_data/cobblemonloot.pw.toml"
 hash = "790dfe64872ad3b7bd6d1f229a4920830d184c162fe53014a680a525ac40b6bb"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/radicaltrainersstructures.pw.toml"
+hash = "0df1d9115f35c6f87437654343fa4af4f5b92b1059d064d53e879672d2912120"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/totw-modded-fwaystones-compat.pw.toml"
+hash = "c51d4deb2881af566baf4d3b2ed84a8a8e263ceeacefe882dd340288372362b1"
 metafile = true
 
 [[files]]

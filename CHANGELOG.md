@@ -49,6 +49,10 @@ v0.0.2 Alpha
 	- [JinxedLib](https://modrinth.com/mod/Vrr7WtS4)
 	</details>
 
+	- Datapacks
+		- Towers of the Wild Modded Fabric Waystone Compat - Makes towers spawn Fabric Waystones.
+		- Radical Trainer Structures - Spawns natural structures for gym leaders of Radical Trainers
+		- JeCobblemon Mod Integrations - Makes mods work together
 	- Config
 		- Wover - enabled "Disable Experimental Warning"
 - Update
