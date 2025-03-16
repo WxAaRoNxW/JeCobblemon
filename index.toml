@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "61d8ac1d585aa54756cc32045d2ca13630eecd54373ed44f9ab88421c8bbc6e2"
+hash = "c4127d4be66e711846f7ea24de238ef54e24fecc3ec9800324f07a4efae6790d"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2965,7 +2965,7 @@ metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "49adba4a5ef3305c9bcce85921ea07f2fdaf4e24c1cf8efae01255acf54ffebd"
+hash = "30a00242d1c32003ece413b0b1a1dbe14f2ea18049fcb0e428344886d3a237ce"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

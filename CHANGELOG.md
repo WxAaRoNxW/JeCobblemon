@@ -64,15 +64,6 @@ v0.0.2 Alpha
 - Changed
     - Stendhal
         - Disabled unicode chat button
-	<details>
-	<summary><b>
-	Backend
-	</b></summary>
-	
-	- Editted Atena, Melody, and WaterMedia to be on both client and server, fixes server pack not downloading these.
-	- Set e4mc to client side, preventing dedicated server to download it.
-	- Set Cobbled Farms world to client side.
-	</details>
 
 - Removed
 	- Even Better Enchants - Replaced with Beautiful Enchanted Books
@@ -113,7 +104,10 @@ v0.0.2 Alpha
 	- Fabric Seasons: Delight Compat - Refork duplicate exists, Fabric Seasons: Delight Refabricated Compat
 	- Skin Shuffle - Replaced with Skin Restorer because it doesn't work in offline mode and it can accidentally replace premium skins instead of just a facade.
 	</details>
-    
+
+- Fix
+	Fix Craft Tweaker script typo. netheritechest -> netherite_chest
+
 </details>
 
 <details>
