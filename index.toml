@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c4127d4be66e711846f7ea24de238ef54e24fecc3ec9800324f07a4efae6790d"
+hash = "cd966d308ab4c218a730fbad13284a930181c68769a28ad2a57b99508f51d380"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -629,6 +629,10 @@ file = "config/yosbr/config/sodiumextras-client.toml"
 hash = "62f76d363069cd325ef19d02a1413d1982611dcf08e849b0bfbd041d062dd56f"
 
 [[files]]
+file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+hash = "c09e9c9de7a7ca8f0d996524de458caf3db09d2c67ac3e4b3807b4a9ff3f1a0a"
+
+[[files]]
 file = "config/yosbr/config/spawn_notification.json"
 hash = "98fbb75e8435c71a4a9153b04a386a22b0f424bbd5bac08b874f0f8f26c5d73a"
 
@@ -638,7 +642,7 @@ hash = "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a"
 
 [[files]]
 file = "config/yosbr/config/subtle_effects/entities.toml"
-hash = "08b1626c883af4493c1b551501f14e632fd17623803d9f7af5add2dd89665596"
+hash = "0ae063197470b988938f72e9e025a40980cb36676e905c84442ce1af802d5460"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"

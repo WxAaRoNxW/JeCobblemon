@@ -63,8 +63,11 @@ v0.0.2 Alpha
 		- 3.0.2 -> 3.0.5
 - Changed
     - Stendhal
-        - Disabled unicode chat button
-
+        - Disabled unicode chat button.
+	- Subtle Effects
+		- Disabled Common Rarity particle.
+	- Sound Physics Remastered
+		- Enabled hear own self with Simple Voice Chat mod.
 - Removed
 	- Even Better Enchants - Replaced with Beautiful Enchanted Books
 	<details>
