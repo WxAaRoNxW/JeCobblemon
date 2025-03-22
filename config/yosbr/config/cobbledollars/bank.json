@@ -1,0 +1,432 @@
+{
+  "bank": [
+    {
+      "item": "minecraft:emerald",
+      "price": 50
+    },
+    {
+      "item": "minecraft:diamond",
+      "price": 200
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "price": 1000
+    },
+    {
+      "item": "cobblemon:medicinal_leek",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:red_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:yellow_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:green_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:blue_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:pink_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:black_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:white_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:oran_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:cheri_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chesto_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:pecha_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:rawst_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:aspear_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:persim_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:razz_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:bluk_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:nanab_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:wepear_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:pinap_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:occa_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:passho_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:wacan_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:rindo_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:yache_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chople_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:kebia_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:shuca_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:coba_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:payapa_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:tanga_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:charti_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:kasib_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:haban_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:colbur_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:babiri_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chilan_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:roseli_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:leppa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lum_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:hopo_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:figy_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:iapapa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:wiki_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:aguav_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:mago_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:sitrus_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:touga_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:cornn_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:magost_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:rabuta_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:nomel_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:spelon_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pamtre_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:watmel_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:durin_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:belue_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:enigma_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:kee_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:maranga_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pomeg_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:kelpsy_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:qualot_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:hondew_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:grepa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:tamato_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:liechi_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:ganlon_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:petaya_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:apicot_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:salac_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:starf_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lansat_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:micle_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:custap_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:jaboca_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:rowap_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:red_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:blue_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:cyan_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pink_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:green_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:white_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lonely_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:adamant_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:naughty_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:brave_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:bold_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:impish_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:lax_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:relaxed_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:modest_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:mild_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:rash_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:quiet_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:calm_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:gentle_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:careful_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:sassy_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:timid_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:hasty_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:jolly_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:naive_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:serious_mint",
+      "price": 200
+    }
+  ]
+}
